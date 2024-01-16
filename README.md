@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🌱 My research is in the field of Deep Learning, with a focus on **low-resource learning (meta/few-shot/semi/self-supervised learning)**, **uncertainty estimation**, **robustness**, and **efficiency** in traditional CNNs and vision-language models. My goal is to ensure AI systems safe, robust, reliable and trustworthy. I’m also very interested in **Generative AI** (large language models (LLMs), and diffusion models), and exploring along these directions. 
     - **Robust Meta-Learning**
       - [PLATINUM: Semi-Supervised Model Agnostic Meta-Learning using Submodular Mutual Information](https://proceedings.mlr.press/v162/li22k/li22k.pdf), International Conference on Machine Learning (**ICML**), 2022.
-        
 	  - [A Nested Bi-Level Optimization for Robust Few Shot Learning](https://arxiv.org/pdf/2011.06782.pdf), AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
     - **Uncertainty Quantification**
       - Hyper Evidential Deep Learning to Quantify Composite Classification Uncertainty, International Conference on Learning Representations (**ICLR**), 2024 
