@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently pursuing my Ph.D. in the [Department of Computer Science](https://cs.utdallas.edu/) at the University of Texas at Dallas, supervised by [Prof. Feng Chen](https://personal.utdallas.edu/~fxc190007/). I was a research intern at **[Meta AI](https://ai.meta.com/)** and **[Bosch Center for AI](https://www.bosch-ai.com/)**. During my tenure at Meta AI, I contributed to a multimodal recurring transfer learning project. Subsequently, at BCAI, I focused on the sparsity of the **Multimodal Foundation Models**.
+- 🔭 I’m currently pursuing my Ph.D. in the [Department of Computer Science](https://cs.utdallas.edu/) at the University of Texas at Dallas, supervised by [Prof. Feng Chen](https://personal.utdallas.edu/~fxc190007/). I was a research intern at **[Meta AI](https://ai.meta.com/)** and **[Bosch Center for AI](https://www.bosch-ai.com/)**. During my tenure at Meta AI, I contributed to a multimodal recurring transfer learning project. Subsequently, at BCAI, I focused on the sparsity of the **Multimodal Foundation Models (Vision-Language Models)**.
   
 - 🌱 My research is in the field of Deep Learning, with a focus on **low-resource learning (meta/few-shot/semi/self-supervised learning)**, **uncertainty estimation**, **robustness**, and **efficiency** in traditional CNNs and vision-language models. My goal is to ensure AI systems safe, robust, reliable and trustworthy. I’m also very interested in **Generative AI** (large language models (LLMs), and diffusion models), and exploring along these directions. 
     - **Robust Meta-Learning**
