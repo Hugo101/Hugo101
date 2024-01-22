@@ -29,10 +29,10 @@ Here are some ideas to get you started:
       - [Hyper Evidential Deep Learning to Quantify Composite Classification Uncertainty.](https://openreview.net/forum?id=A7t7z6g6tM)\
         **Changbin Li**, Kangshuo Li, Yuzhe Ou, Lance M. Kaplan, Audun Jøsang, Jin-Hee Cho, DONG HYUN JEONG, Feng Chen.\
         International Conference on Learning Representations (**ICLR**), 2024 
-  
-- 👯 **I’m looking for internship opportunities for Spring/Summer 2024, and seeking full-time roles for 2024**.
-  
+
   
 - 💬 I'd like to write some blogs, including **[Paper Notes](https://lichangbin.gitbook.io/paper_notes/)** and **[Study Notes](https://lichangbin.gitbook.io/studynotes/)**. Recently, I am summarizing my notes on **[Generative AI](https://lichangbin.gitbook.io/generative-models/)**.
 
-- 📫 Feel free to contact me via email at <lichangbin101@gmail.com>
+- 👯 **I’m looking for internship opportunities for Spring/Summer 2024, and seeking full-time roles for 2024**.
+  
+- 📫 Feel free to contact me via email at <lichangbin@outlook.com>
