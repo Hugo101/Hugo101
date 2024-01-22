@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         International Conference on Learning Representations (**ICLR**), 2024 
 
   
-- 💬 I'd like to write some blogs, including **[Paper Notes](https://lichangbin.gitbook.io/paper_notes/)** and **[Study Notes](https://lichangbin.gitbook.io/studynotes/)**. Recently, I am summarizing my notes on **[Generative AI](https://lichangbin.gitbook.io/generative-models/)**.
+- 💬 I'd like to write some blogs, including **[Paper Notes](https://lichangbin.gitbook.io/paper_notes/)** and **[Study Notes](https://lichangbin.gitbook.io/studynotes/)**. Recently, I am summarizing my previous notes on **[Generative AI](https://lichangbin.gitbook.io/generative-models/)**.
 
 - 👯 **I’m looking for internship opportunities for Spring/Summer 2024, and seeking full-time roles for 2024**.
   
