@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 - 👯 **I’m looking for internship opportunities for Spring/Summer 2024, and seeking full-time roles for 2024**.
   
-- 📫 Feel free to contact me via email at <lichangbin@outlook.com>
+- 📫 Feel free to contact me via email at <changbin.li@utdallas.edu> or <lichangbin@outlook.com>
