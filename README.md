@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         International Conference on Learning Representations (**ICLR**), 2024 
 
     - **Current Work:**
-      - Currently investigating uncertainty quantification in vision-language model and LLMs to improve their decision-making robustness.
+      - Currently investigating uncertainty quantification in vision-language model and LLMs to improve their decision-making robustness and safety.
         
 - 💬 I'd like to write some blogs sometimes, including **[Paper Notes](https://lichangbin.gitbook.io/paper_notes/)** and **[Study Notes](https://lichangbin.gitbook.io/studynotes/)**. Recently, I am summarizing my previous notes on **[Generative AI](https://lichangbin.gitbook.io/generative-models/)**.
 
