@@ -35,6 +35,6 @@ Here are some ideas to get you started:
         
 - 💬 I'd like to write some blogs sometimes, including **[Paper Notes](https://lichangbin.gitbook.io/paper_notes/)** and **[Study Notes](https://lichangbin.gitbook.io/studynotes/)**. Recently, I am summarizing my previous notes on **[Generative AI](https://lichangbin.gitbook.io/generative-models/)**.
 
-- 👯 **I’m looking for internship opportunities for Spring/Summer 2024, and seeking full-time roles for 2024**.
+- 👯 **I am an incoming Research Scientist Intern at Meta AI this summer, and I’m seeking full-time roles for the end of 2024**.
   
 - 📫 Feel free to contact me via email at <changbin.li@utdallas.edu>.
