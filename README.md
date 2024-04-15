@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 - 👯 **I am an incoming Research Scientist Intern at Meta AI this summer, and I’m seeking full-time roles for the end of 2024**.
   
-- 📫 Feel free to contact me via email at <changbin.li@utdallas.edu>.
+- 📫 Feel free to contact me via email at <lichangbin101@gmail.com>.
